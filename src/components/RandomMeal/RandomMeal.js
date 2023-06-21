@@ -1,6 +1,8 @@
 import React, { useEffect, useContext } from 'react'
 import { Context } from '../Context'
-import axios from 'axios'
+// import axios from 'axios'
+// import { Link } from 'react-router-dom'
+
 
 // import './RandomMeal.css'
 
