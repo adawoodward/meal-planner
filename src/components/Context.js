@@ -67,7 +67,7 @@ export const ContextProvider = ({ children }) => {
     }, [])
 
     const fetchRandomMeal = useCallback(()=>{
-        axios.get(`https:/www.themealdb.com/api/json/v1/1/random.php`)
+        axios.get(`https://www.themealdb.com/api/json/v1/1/random.php`)
             .then(response=>{
                 console.log(response.data.meals)
                 setRandomMeal(response.data.meals)

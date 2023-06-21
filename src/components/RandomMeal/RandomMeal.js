@@ -1,5 +1,7 @@
 import React, { useEffect, useContext } from 'react'
 import { Context } from '../Context'
+import axios from 'axios'
+
 // import './RandomMeal.css'
 
 const RandomMeal = () => {
