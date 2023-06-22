@@ -161,12 +161,14 @@ iframe {
     font-weight: bold !important;
     border-color: #368d8e;
     border-width: 5px;
+    border-style: solid;
 }
 
 .navbar--links a:hover {
     color: #ffa26b;
     font-weight: bold !important;
     border-color: #ffa26b;
+    border-style: solid;
 }
 
 
