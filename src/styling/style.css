@@ -155,7 +155,7 @@ iframe {
     text-decoration: none;
     margin: 10px;
     padding: 10px;
-    background-color: lightslategrey;
+    background-color: #fff;
     border-radius: 5px;
     transition: all 0.4s ease;
     font-weight: bold !important;
@@ -186,7 +186,7 @@ iframe {
 }
 
 body {
-    background-color: black;
+    background-color: #fff;
 }
 
 .random {
@@ -269,7 +269,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: black;
+    background: #65C6AE;
     color: white;
     height: 10vh;
     border-top: 1px solid #ccc;
