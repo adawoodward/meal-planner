@@ -296,7 +296,7 @@ body {
 }
 
 .categories {
-    background: black;
+    /* background: black; */
     color: white;
     display: flex;
     flex-direction: row;
