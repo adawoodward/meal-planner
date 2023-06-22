@@ -191,7 +191,7 @@ iframe {
 }
 
 body {
-    background-color: #fff;
+    background-color: blanchedalmond;
 }
 
 .random {
@@ -297,7 +297,7 @@ body {
 
 .categories {
     /* background: black; */
-    background-color: #ffa26b;
+    background-color: blanchedalmond;
     color: #3e393d;
     display: flex;
     flex-direction: row;
