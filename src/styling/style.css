@@ -151,7 +151,7 @@ iframe {
 }
 
 .navbar--links a {
-    color: yellow;
+    color: #65C6AE;
     text-decoration: none;
     margin: 10px;
     padding: 10px;
@@ -159,11 +159,13 @@ iframe {
     border-radius: 5px;
     transition: all 0.4s ease;
     font-weight: bold !important;
+    border-color: #65C6AE;
 }
 
 .navbar--links a:hover {
-    color: orange;
+    color: #ffa26b;
     font-weight: bold !important;
+    border-color: #ffa26b;
 }
 
 
@@ -269,7 +271,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: #65C6AE;
+    background-color: #65C6AE;
     color: white;
     height: 10vh;
     border-top: 1px solid #ccc;
