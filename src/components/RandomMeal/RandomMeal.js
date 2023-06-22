@@ -18,7 +18,7 @@ const RandomMeal = () => {
       {randomMeal.map(meal=>(
         <div className='random--grid' key={meal.idMeal}>
           <div className='random--control'>
-            <h4>{item.strMeal}</h4>
+            <h4>{meal.strMeal}</h4>
             <img src={meal.strMealThumb} alt="#" />
             <button onClick={fetchRandomMeal}>Generate Another Meal</button>
           </div>
