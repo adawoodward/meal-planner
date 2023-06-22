@@ -160,7 +160,7 @@ iframe {
     transition: all 0.4s ease;
     font-weight: bold !important;
     border-color: #368d8e;
-    border-width: 5px;
+    border-width: medium;
     border-style: solid;
 }
 
