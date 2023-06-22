@@ -182,7 +182,7 @@ iframe {
     flex-wrap: wrap;
     text-align: center;
     padding: 50px;
-    min-height: 65vh;
+    min-height: 80vh;
     column-gap: 50px;
 }
 
