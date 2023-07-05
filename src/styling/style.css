@@ -3,6 +3,10 @@
     html {
         width: 100%;
     }
+    .navbar {
+        width: max-content;
+        height: max-content;
+    }
 }
 
 .home {
