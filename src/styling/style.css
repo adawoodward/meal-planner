@@ -285,6 +285,7 @@ body {
     color: white;
     height: 10vh;
     border-top: 1px solid #ccc;
+    width: 100%;
 }
 
 .singleCategory {
