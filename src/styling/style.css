@@ -22,6 +22,7 @@
 
     .recipe {
         width: 300px;
+        text-align: justify;
     }
 
     iframe {
