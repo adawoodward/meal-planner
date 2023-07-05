@@ -5,6 +5,7 @@
     }
     .navbar {
         font-size: 10px;
+        height: 400px;
     }
 
     .navbar--links a {
