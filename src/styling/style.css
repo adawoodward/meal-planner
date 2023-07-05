@@ -12,6 +12,10 @@
         padding: 5px !important;
     }
 
+    .navbar > h1 {
+        display: none;
+    }
+
 }
 
 .home {
