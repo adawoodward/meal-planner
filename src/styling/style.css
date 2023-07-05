@@ -23,6 +23,10 @@
     .recipe {
         width: 300px;
     }
+
+    iframe {
+        width: fit-content;
+    }
 }
 
 .home {
