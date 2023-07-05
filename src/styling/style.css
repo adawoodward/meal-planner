@@ -16,6 +16,9 @@
         display: none;
     }
 
+    .navbar--links>ul {
+        margin-left: -40px;
+    }
 }
 
 .home {
