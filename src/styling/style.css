@@ -5,8 +5,12 @@
     }
     .navbar {
         font-size: 10px;
+    }
+
+    .navbar--links a {
         padding: 0px;
     }
+
 }
 
 .home {
