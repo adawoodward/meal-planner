@@ -74,7 +74,9 @@ function SavedMeal() {
         // localStorage.setItem('savedMeals', JSON.stringify(savedMeals.filter(item => item.idMeal !== idMeal)))
         setIsSaved(false)
         alert('Meal deleted!')
-        window.location.reload()
+        // window.location.reload()
+        location.reload()
+
         console.log(savedMeals)
     }
 
