@@ -75,7 +75,7 @@ function SavedMeal() {
         setIsSaved(false)
         alert('Meal deleted!')
         // window.location.reload()
-        location.reload()
+        location.reload(true)
 
         console.log(savedMeals)
     }
